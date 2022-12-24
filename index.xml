@@ -13,16 +13,18 @@
       <pubDate>Sun, 25 Dec 2022 02:36:03 +0530</pubDate>
       
       <guid>https://cyberflaw.github.io/project/binge-watch/</guid>
-      <description></description>
+      <description>History Link to heading This idea originated during the lockdown period. One of my friends and I were talking and suddenly he told that it would be nice if we all could see a movie together, at the same time. And this was the idea behind Binge Watch.
+How it works Link to heading It asks all the users to download and load a video file into memory. After everyone is finished loading, everyone&amp;rsquo;s media controls for the HTML video element (except volume) will be linked by WebSockets (Socket.</description>
     </item>
     
     <item>
-      <title>Web Scrapers</title>
+      <title>Web Scraper Bots</title>
       <link>https://cyberflaw.github.io/project/web-scrapers/</link>
       <pubDate>Sun, 25 Dec 2022 02:06:51 +0530</pubDate>
       
       <guid>https://cyberflaw.github.io/project/web-scrapers/</guid>
-      <description></description>
+      <description>History Link to heading This was the very first few proper programs I wrote. Before this, I only knew programming concepts. I didn&amp;rsquo;t know how to use these concepts in real-world applications. These few scripts brought me into programming.
+Current State Link to heading The spirits consist a Youtube scraper and Billboard Hot 100 Scraper. The repo is really messy, but it&amp;rsquo;ll always hold a special place in my heart</description>
     </item>
     
     <item>
@@ -31,7 +33,8 @@
       <pubDate>Sun, 25 Dec 2022 02:06:39 +0530</pubDate>
       
       <guid>https://cyberflaw.github.io/project/synchro-protocol/</guid>
-      <description></description>
+      <description>History Link to heading This is an ongoing project as a part of the Senior Year project. This protocol will be used for real-time audio transmission/streaming over TCP
+How it works Link to heading It&amp;rsquo;s a network protocol with many parts left to decide. We have to build and benchmark and find the optimal sizes of packets and segments in the packets. This protocol sits inside the TCP data part.</description>
     </item>
     
     <item>
@@ -40,7 +43,9 @@
       <pubDate>Sun, 25 Dec 2022 02:06:25 +0530</pubDate>
       
       <guid>https://cyberflaw.github.io/project/blood-bank/</guid>
-      <description></description>
+      <description>History Link to heading I was asked to create a blood bank website for our campus.
+How its build Link to heading Its build on the MERN Stack
+Current State Link to heading It was deployed in Heroku. But as the free tier was removed, the project remained untouched</description>
     </item>
     
     <item>
@@ -49,7 +54,8 @@
       <pubDate>Sun, 25 Dec 2022 02:06:17 +0530</pubDate>
       
       <guid>https://cyberflaw.github.io/project/coordinox/</guid>
-      <description></description>
+      <description>History Link to heading This project was built as a part of the Mini Project for the even semester of Junior year. Upon searching for ideas, we came across a device that can identify gestures and read sign language. We modified that idea and thought&amp;hellip;
+We have projectors in our classes right, why do teachers have to use a mouse or trackpad to move the cursor? Why can&amp;rsquo;t we build something that can make a device that can make the projection like a touch screen or a smart classroom?</description>
     </item>
     
     <item>

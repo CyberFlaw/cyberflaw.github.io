@@ -12,15 +12,18 @@
 
 
 <meta name="author" content="Gokul Dinesh">
-<meta name="description" content="Gokul&#39;s Portfolio">
+<meta name="description" content="History Link to heading This project was built as a part of the Mini Project for the even semester of Junior year. Upon searching for ideas, we came across a device that can identify gestures and read sign language. We modified that idea and thought&hellip;
+We have projectors in our classes right, why do teachers have to use a mouse or trackpad to move the cursor? Why can&rsquo;t we build something that can make a device that can make the projection like a touch screen or a smart classroom?">
 <meta name="keywords" content="developer, portfolio, gokul dinesh, cyberflaw">
 
 <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Coordinox - Pointing Device"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:description" content="History Link to heading This project was built as a part of the Mini Project for the even semester of Junior year. Upon searching for ideas, we came across a device that can identify gestures and read sign language. We modified that idea and thought&hellip;
+We have projectors in our classes right, why do teachers have to use a mouse or trackpad to move the cursor? Why can&rsquo;t we build something that can make a device that can make the projection like a touch screen or a smart classroom?"/>
 
 <meta property="og:title" content="Coordinox - Pointing Device" />
-<meta property="og:description" content="" />
+<meta property="og:description" content="History Link to heading This project was built as a part of the Mini Project for the even semester of Junior year. Upon searching for ideas, we came across a device that can identify gestures and read sign language. We modified that idea and thought&hellip;
+We have projectors in our classes right, why do teachers have to use a mouse or trackpad to move the cursor? Why can&rsquo;t we build something that can make a device that can make the projection like a touch screen or a smart classroom?" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://cyberflaw.github.io/project/coordinox/" /><meta property="article:section" content="project" />
 <meta property="article:published_time" content="2022-12-25T02:06:17+05:30" />
@@ -138,7 +141,32 @@
       </h1>
     </header>
 
-    
+    <h3 id="history">
+  History
+  <a class="heading-link" href="#history">
+    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>This project was built as a part of the Mini Project for the even semester of Junior year. Upon searching for ideas, we came across a device that can identify gestures and read sign language. We modified that idea and thought&hellip;</p>
+<p>We have projectors in our classes right, why do teachers have to use a mouse or trackpad to move the cursor? Why can&rsquo;t we build something that can make a device that can make the projection like a touch screen or a smart classroom? And that&rsquo;s how this idea came to birth</p>
+<h3 id="how-does-this-device-work">
+  How does this device work
+  <a class="heading-link" href="#how-does-this-device-work">
+    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p>This device works on the basis of the relative position of the device in the room, which means this won&rsquo;t work in an open arena. We had to make this choice as we didn&rsquo;t have a <em>gyroscope censor</em> in stock and the timeline was a bit tight. So the device has to go through 2 step calibration process before use. You have to mark the bottom left corner and top right corner of the projection from the projector. With some easy math, we can compute the relative positions of the device with respect to the projection. Then we can scale down the points and give software clicks and drags at the point where the device is activated</p>
+<h3 id="what-is-used-to-build-this-device">
+  What is used to build this device
+  <a class="heading-link" href="#what-is-used-to-build-this-device">
+    <i class="fa fa-link" aria-hidden="true" title="Link to heading"></i>
+    <span class="sr-only">Link to heading</span>
+  </a>
+</h3>
+<p><em>ESP32 NodeMCU</em> is at the heart of the device. It&rsquo;s connected to 2 <em>ultrasonic censors</em> which measure X and Y distance with respect to the room. The device connects to a PC by <em>WiFi</em>. Through <em>WiFi</em>, the data is sent by a Codec. A <em>Python</em> script is running on the receiving end which decodes the data and generates the software interrupts. This should be ideally done in a compiled language. Due to time constraints, we were unable to do the same. Thus the script became really laggy and inaccurate</p>
+
   </article>
 </section>
 
