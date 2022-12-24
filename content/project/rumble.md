@@ -20,3 +20,5 @@ This was my very first attempt to learn *Rust*. To put things in short it was a 
 ### Description
 
 This application is a Full Stack, real-time chat application. It's frontend is built using Next.js, and backend in Rust. It's deployed in Vercel and Render. But due to some errors within Render, I was unable to host the Backend. I also used MongoDB to persist the data as the data from chat is mostly unstructured
+
+[Visit Repo](https://github.com/CyberFlaw/cdp-task2-submission)
