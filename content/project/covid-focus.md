@@ -1,7 +1,7 @@
 ---
 title: "Covid Focus"
 date: 2022-12-25T02:06:08+05:30
-draft: true
+draft: false
 ---
 
 ### History

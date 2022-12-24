@@ -1,7 +1,7 @@
 ---
 title: "IEEE SB GECT Club Website"
 date: 2022-12-25T02:05:38+05:30
-draft: true
+draft: false
 ---
 
 #### History

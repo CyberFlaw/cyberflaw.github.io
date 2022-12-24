@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 date: 2022-12-25T00:13:31+05:30
-draft: true
+draft: false
 ---
 
 I've started my Developer journey around my *fresher year* of my *bachelor's degree*. Over the years I've played in a wide variety of areas. These include *Full Stack Web Development*, *Mobile Development*, *Computer Graphics*, *Cloud Computing*, *DevOps*, and so on. Some of the documented side projects I've done are listed below

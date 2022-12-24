@@ -1,7 +1,7 @@
 ---
 title: "Contacts"
 date: 2022-12-25T00:13:37+05:30
-draft: true
+draft: false
 ---
 
 **Email** : [dev.gokuldinesh@gmail.com](mailto:dev.gokuldinesh@gmail.com)
