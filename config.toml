@@ -1,0 +1,56 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Gokul Dinesh'
+theme = 'hugo-coder'
+
+paginate = 20
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+    author = "Gokul Dinesh"
+    info = "Full Stack | DevOps | Systems"
+    description = "Gokul's Portfolio"
+    keywords = "developer, portfolio, gokul dinesh, cyberflaw"
+    avatarurl = "images/profile.jpeg"
+
+    favicon_32 = "img/favicon.png"
+
+    since = 2022
+    enableTwemoji = true
+
+    colorScheme = "auto"
+
+[taxonomies]
+    category = "categories"
+    series = "series"
+    tag = "tags"
+    author = "authors"
+
+[[params.social]]
+    name = "Github"
+    icon = "fa fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/cyberflaw/"
+
+[[params.social]]
+    name = "LinkedIn"
+    icon = "fa fa-linkedin fa-2x"
+    weight = 3
+    url = "https://www.linkedin.com/in/cyberflaw/"
+
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url  = "about/"
+
+[[menu.main]]
+    name = "Projects"
+    weight = 1
+    url  = "projects/"
+
+[[menu.main]]
+    name = "Contact Me"
+    weight = 2
+    url = "contact/"
