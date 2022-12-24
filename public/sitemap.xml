@@ -2,14 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/authors/</loc>
+    <loc>https://cyberflaw.github.io/project/binge-watch/</loc>
+    <lastmod>2022-12-25T02:36:03+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://cyberflaw.github.io/</loc>
+    <lastmod>2022-12-25T02:36:03+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://cyberflaw.github.io/project/</loc>
+    <lastmod>2022-12-25T02:36:03+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/series/</loc>
+    <loc>https://cyberflaw.github.io/project/web-scrapers/</loc>
+    <lastmod>2022-12-25T02:06:51+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://cyberflaw.github.io/project/synchro-protocol/</loc>
+    <lastmod>2022-12-25T02:06:39+05:30</lastmod>
+  </url><url>
+    <loc>https://cyberflaw.github.io/project/blood-bank/</loc>
+    <lastmod>2022-12-25T02:06:25+05:30</lastmod>
+  </url><url>
+    <loc>https://cyberflaw.github.io/project/coordinox/</loc>
+    <lastmod>2022-12-25T02:06:17+05:30</lastmod>
+  </url><url>
+    <loc>https://cyberflaw.github.io/project/covid-focus/</loc>
+    <lastmod>2022-12-25T02:06:08+05:30</lastmod>
+  </url><url>
+    <loc>https://cyberflaw.github.io/project/rendering-engine/</loc>
+    <lastmod>2022-12-25T02:05:59+05:30</lastmod>
+  </url><url>
+    <loc>https://cyberflaw.github.io/project/ieee-website/</loc>
+    <lastmod>2022-12-25T02:05:38+05:30</lastmod>
+  </url><url>
+    <loc>https://cyberflaw.github.io/project/rumble/</loc>
+    <lastmod>2022-12-25T02:03:36+05:30</lastmod>
+  </url><url>
+    <loc>https://cyberflaw.github.io/contact/</loc>
+    <lastmod>2022-12-25T00:13:37+05:30</lastmod>
+  </url><url>
+    <loc>https://cyberflaw.github.io/projects/</loc>
+    <lastmod>2022-12-25T00:13:31+05:30</lastmod>
+  </url><url>
+    <loc>https://cyberflaw.github.io/about/</loc>
+    <lastmod>2022-12-25T00:12:59+05:30</lastmod>
+  </url><url>
+    <loc>https://cyberflaw.github.io/authors/</loc>
+  </url><url>
+    <loc>https://cyberflaw.github.io/categories/</loc>
+  </url><url>
+    <loc>https://cyberflaw.github.io/series/</loc>
+  </url><url>
+    <loc>https://cyberflaw.github.io/tags/</loc>
   </url>
 </urlset>
