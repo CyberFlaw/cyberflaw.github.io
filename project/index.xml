@@ -28,12 +28,12 @@ Current State Link to heading The spirits consist a Youtube scraper and Billboar
     </item>
     
     <item>
-      <title>Synchro Protocol</title>
-      <link>https://cyberflaw.github.io/project/synchro-protocol/</link>
+      <title>Synchro</title>
+      <link>https://cyberflaw.github.io/project/synchro/</link>
       <pubDate>Sun, 25 Dec 2022 02:06:39 +0530</pubDate>
       
-      <guid>https://cyberflaw.github.io/project/synchro-protocol/</guid>
-      <description>History Link to heading This is an ongoing project as a part of the Senior Year project. This protocol will be used for real-time audio transmission/streaming over TCP
+      <guid>https://cyberflaw.github.io/project/synchro/</guid>
+      <description>History Link to heading This was a project done as my final year project for my Engineering course. This is used to stream real-time audio transmission/streaming over TCP
 How it works Link to heading It&amp;rsquo;s a network protocol with many parts left to decide. We have to build and benchmark and find the optimal sizes of packets and segments in the packets. This protocol sits inside the TCP data part.</description>
     </item>
     
