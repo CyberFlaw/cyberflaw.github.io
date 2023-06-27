@@ -10,9 +10,9 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Gokul Dinesh"
-    info = "Full Stack | DevOps | Systems"
+    info = "Systems | Full Stack | DevOps "
     description = "Gokul's Portfolio"
-    keywords = "developer, portfolio, gokul dinesh, cyberflaw"
+    keywords = "developer, portfolio, blog, gokul dinesh, cyberflaw"
     avatarurl = "images/profile.jpeg"
 
     favicon_32 = "img/favicon.png"
@@ -37,7 +37,7 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
     name = "LinkedIn"
     icon = "fa fa-linkedin fa-2x"
-    weight = 3
+    weight = 1
     url = "https://www.linkedin.com/in/cyberflaw/"
 
 [[menu.main]]
@@ -47,10 +47,15 @@ pygmentscodefencesguesssyntax = true
 
 [[menu.main]]
     name = "Projects"
-    weight = 1
+    weight = 2
     url  = "projects/"
 
 [[menu.main]]
-    name = "Contact Me"
+    name = "Experiences"
     weight = 2
+    url = "experience/"
+
+[[menu.main]]
+    name = "Contact Me"
+    weight = 3
     url = "contact/"
