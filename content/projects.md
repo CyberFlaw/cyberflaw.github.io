@@ -6,6 +6,7 @@ draft: false
 
 I've started my Developer journey around my *fresher year* of my *bachelor's degree*. Over the years I've played in a wide variety of areas. These include *Full Stack Web Development*, *Mobile Development*, *Computer Graphics*, *Cloud Computing*, *DevOps*, and so on. Some of the documented side projects I've done are listed below
 
++ [*Raw Audio Streaming over TCP*](/project/synchro) : Building using Rust 
 
 + [*Voxel Graphic Engine*](/project/voxel-engine) : Building using Rust and OpenGL 
 
@@ -21,11 +22,8 @@ I've started my Developer journey around my *fresher year* of my *bachelor's deg
 
 + [*Blood Bank Website*](/project/blood-bank) : Build on MERN Stack
 
-+ [*Custom Network Protocol over TCP*](/project/synchro-protocol) : Building using Rust (Current Project)
-
 + [*HTML5 Video Synchronization over WebSockets*](/project/binge-watch) : Build using JavaScript and Node.js
 
 + [*Web Scraper Bots*](/project/web-scrapers) : Build using Python+
-
  
 I'm also exploring Linux and it's architecture now. Some day I wish to contribute to the Linux kernel
