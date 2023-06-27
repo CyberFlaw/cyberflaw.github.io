@@ -4,12 +4,13 @@ date: 2022-12-25T00:12:59+05:30
 draft: false
 ---
 
-I'm **Gokul Dinesh**, a Full Stack Software Engineer and a Systems Developer, currently in Senior year of *B.Tech Computer Science Engineering*, who is open to opportunities and adventures. I'm currently based in Kerala, India. I'm a huge advocate for free and open-source learning and I'm currently into systems development, computer graphics and kernels. I've also dabbled in Cloud and DevOps for a few side projects.
+I'm **Gokul Dinesh**, a *B.Tech Computer Science Engineering* graduate, Full Stack Software Engineer and a Systems Developer, who is open to opportunities and adventures. I'm currently based in Kerala, India. I'm a huge advocate for free and open-source learning and I'm currently into systems development, computer graphics and kernels. I've also dabbled in Cloud and DevOps for a few side projects.
 
-I'm currently looking for Internships in *Backend Development*, *Cloud Engineering*, *Systems Development*. I've a wide skill set and I'm a fast learner.
+<!-- I'm currently looking for Job Oppertunities in *Backend Development*, *Cloud Engineering*, *Systems Development*. I've a wide skill set and I'm a fast learner. -->
 
-My previous work experiences are:
+My previous work [experiences](/experience) are:
 
++ Software Engineer Intern [CluserDev]
 + Web Developer [Tatos Technologies]
 + React Developer [Vbuy ECommerce]
 
